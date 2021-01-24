@@ -1,10 +1,3 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+Project that presents a copy of Instagram's login page, developed in the educational plataform Digital Innovation One, in the Bootcamp HTML Web Developer, on the class Recriating the Instagram's front page.
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
-
-### Os requisitos são:
-
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-
-## 🚀 Let's code! 🚀
+Tecnologias utilizadas: Visual Studio Code; HTML; CSS.
